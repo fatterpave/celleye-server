@@ -1,0 +1,8 @@
+server:
+    applicationContextPath: /*
+    applicationConnectors:
+        - type: http
+          port: 9000
+
+alarmProbePath: /NOH-VAPP30dom/NOH-VAPP30hub/NOH-VAPP30/io_alarm
+
